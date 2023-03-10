@@ -413,9 +413,9 @@ h1#logo {
 }
 h1#logo a {
 	background: url(../images/bg-logo.png) center no-repeat;
-	background-size: 85px 30px;
+	background-size: 85px 100px;
 	width: 85px;
-	height: 30px;
+	height: 100px;
 	text-indent: -9999px;
 	display: block;
 }
@@ -747,7 +747,7 @@ header .phone-number i.fa {
 	height: auto;
 	z-index: 98;
 	padding: 35px 0;
-	text-align:center;
+	text-align: center;
 }
 .no-intro #header {
 	position: relative;

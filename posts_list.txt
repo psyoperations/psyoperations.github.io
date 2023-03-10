@@ -1,0 +1,10 @@
+<div class="post_text">{CATEGORY_PAGE_TEXT}</div>
+
+[POST]
+	<div class="post_preview">
+		<a href="{URL}" class="post_preview_title">{TITLE}</a><br />
+        <div class="post_preview_text">{THUMB} {SHORT_STORY}</div>
+	</div>
+[/POST]
+
+{PAGINATION}
